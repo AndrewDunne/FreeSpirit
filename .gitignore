@@ -44,6 +44,9 @@
 # Debug files
 *.pdb
 
+# 'Saved' Folder
+Saved/
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
