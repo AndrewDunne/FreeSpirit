@@ -79,6 +79,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.bin
-HousekiUE5/Intermediate/CachedAssetRegistry.bin
+
 HousekiUE5/Intermediate/CachedAssetRegistry.bin
