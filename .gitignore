@@ -54,7 +54,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
-Intermediate/CachedAssetRegistry.bin
+**/CachedAssetRegistry.bin
 
 # Builds
 Build/*
@@ -79,3 +79,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+HousekiUE5/Intermediate/CachedAssetRegistry.bin
