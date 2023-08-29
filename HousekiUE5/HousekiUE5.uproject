@@ -13,5 +13,8 @@
 			"Name": "ElectraPlayer",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
