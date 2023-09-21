@@ -597,6 +597,7 @@
 "..\Plugins\Runtime\AudioSynesthesia\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AudioSynesthesia\Module.AudioSynesthesia.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedWidgets\Module.AdvancedWidgets.cpp.obj"
 "..\Plugins\Runtime\AudioWidgets\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AudioWidgets\Module.AudioWidgets.cpp.obj"
+"..\Plugins\Runtime\Soundscape\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Soundscape\Module.Soundscape.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navmesh\Module.Navmesh.1.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navmesh\Module.Navmesh.2.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealGame\Shipping\Navmesh\Module.Navmesh.3.cpp.obj"

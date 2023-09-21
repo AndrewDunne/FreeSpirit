@@ -3247,6 +3247,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Soundscape/Soundscape.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Synthesis/Synthesis.uplugin",
 			"Type": "UFS"
 		},
