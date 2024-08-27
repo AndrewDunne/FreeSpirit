@@ -80,5 +80,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-HousekiUE5/Intermediate/CachedAssetRegistry.bin
-HousekiUE5 5.3/Intermediate/CachedAssetRegistry_0.bin
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry_0.bin
+
+Content/Levels/Island_Terrain.umap
