@@ -33,20 +33,12 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/OpenImageDenoise.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.pdb",
 			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/tbb12.dll",
-			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbbmalloc.dll",
@@ -3003,10 +2995,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/OpenImageDenoise/OpenImageDenoise.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin",
 			"Type": "UFS"
 		},
@@ -3287,20 +3275,12 @@
 			"Type": "NonUFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/OpenImageDenoise.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.dll",
 			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.pdb",
 			"Type": "DebugNonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/tbb12.dll",
-			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbbmalloc.dll",

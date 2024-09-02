@@ -1661,35 +1661,6 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Experimental/OpenImageDenoise/OpenImageDenoise.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "1.0",
-				"FriendlyName": "OpenImageDenoise",
-				"Description": "Denoising engine for the Unreal Path Tracer based on Intel's OpenImageDenoise library.",
-				"Category": "Denoising",
-				"CreatedBy": "Epic Games, Inc.",
-				"CreatedByURL": "https://epicgames.com",
-				"DocsURL": "",
-				"MarketplaceURL": "",
-				"SupportURL": "",
-				"EnabledByDefault": true,
-				"CanContainContent": false,
-				"Modules": [
-					{
-						"Name": "OpenImageDenoise",
-						"Type": "RuntimeAndProgram",
-						"LoadingPhase": "Default",
-						"PlatformAllowList": [
-							"Win64"
-						]
-					}
-				]
-			}
-		},
-		{
 			"File": "../../../Engine/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin",
 			"Descriptor": 
 			{
