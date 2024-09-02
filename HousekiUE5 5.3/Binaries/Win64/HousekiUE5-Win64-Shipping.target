@@ -11,9 +11,9 @@
 	{
 		"MajorVersion": 5,
 		"MinorVersion": 3,
-		"PatchVersion": 0,
-		"Changelist": 27405482,
-		"CompatibleChangelist": 0,
+		"PatchVersion": 2,
+		"Changelist": 29314046,
+		"CompatibleChangelist": 27405482,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE5+Release-5.3",
@@ -33,20 +33,12 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/OpenImageDenoise.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.pdb",
 			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/tbb12.dll",
-			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbbmalloc.dll",
@@ -3003,10 +2995,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Experimental/OpenImageDenoise/OpenImageDenoise.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Experimental/PlanarCutPlugin/PlanarCut.uplugin",
 			"Type": "UFS"
 		},
@@ -3287,20 +3275,12 @@
 			"Type": "NonUFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/OpenImageDenoise.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.dll",
 			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbb.pdb",
 			"Type": "DebugNonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/tbb12.dll",
-			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/tbbmalloc.dll",
