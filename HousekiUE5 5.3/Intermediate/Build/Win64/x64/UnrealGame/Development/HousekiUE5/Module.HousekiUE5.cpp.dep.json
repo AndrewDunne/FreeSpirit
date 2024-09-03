@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\andrew\\documents\\github\\freespirit\\housekiue5 5.3\\intermediate\\build\\win64\\x64\\unrealgame\\development\\housekiue5\\module.housekiue5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andrew\\documents\\github\\freespirit\\housekiue5 5.3\\intermediate\\build\\win64\\x64\\housekiue5\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\andrew\\documents\\github\\freespirit\\housekiue5 5.3\\intermediate\\build\\win64\\x64\\unrealgame\\development\\housekiue5\\definitions.housekiue5.h",
+            "c:\\users\\andrew\\documents\\github\\freespirit\\housekiue5 5.3\\intermediate\\source\\housekiue5.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
