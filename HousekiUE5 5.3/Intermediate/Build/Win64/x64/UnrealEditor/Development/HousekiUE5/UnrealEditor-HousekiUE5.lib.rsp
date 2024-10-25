@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HousekiUE5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Andrew\Documents\GitHub\FreeSpirit\HousekiUE5 5.3\Intermediate\Build\Win64\x64\HousekiUE5Editor\Development\Core\SharedPCH.Core.Cpp17.h.obj"
+"C:\Users\Andrew\Documents\GitHub\FreeSpirit\HousekiUE5 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\HousekiUE5\Module.HousekiUE5.cpp.obj"
+"C:\Users\Andrew\Documents\GitHub\FreeSpirit\HousekiUE5 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\HousekiUE5\Default.rc2.res"
+/OUT:"C:\Users\Andrew\Documents\GitHub\FreeSpirit\HousekiUE5 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\HousekiUE5\UnrealEditor-HousekiUE5.lib"

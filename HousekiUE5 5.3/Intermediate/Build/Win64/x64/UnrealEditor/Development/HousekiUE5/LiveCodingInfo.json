@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HousekiUE5.cpp.obj": [
+			"HousekiUE5.cpp.obj"
+		]
+	}
+}
