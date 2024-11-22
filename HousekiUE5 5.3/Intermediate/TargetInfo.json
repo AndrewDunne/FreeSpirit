@@ -1,24 +1,4 @@
 {
 	"Targets": [
-		{
-			"Name": "HousekiUE5",
-			"Path": "Source\\HousekiUE5.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "HousekiUE5Client",
-			"Path": "Source\\HousekiUE5Client.Target.cs",
-			"Type": "Client"
-		},
-		{
-			"Name": "HousekiUE5Editor",
-			"Path": "Source\\HousekiUE5Editor.Target.cs",
-			"Type": "Editor"
-		},
-		{
-			"Name": "HousekiUE5Server",
-			"Path": "Source\\HousekiUE5Server.Target.cs",
-			"Type": "Server"
-		}
 	]
 }
